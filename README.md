@@ -31,7 +31,7 @@ MARCH/13/2016
              Testing
              *********
              
-    Multiple test where performed to ensure the program worked consistently.
+Multiple test where performed to ensure the program worked consistently.
              
              TEST 1
              
