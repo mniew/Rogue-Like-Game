@@ -1,8 +1,8 @@
 # Rogue-Like-Game
 
 **************************************
-Marek Niewiadomski    0934213
-CIS 2500        Assignment 3
+Marek Niewiadomski    
+University of Guelph
 MARCH/13/2016
 **************************************
 
