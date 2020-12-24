@@ -58,13 +58,6 @@ Multiple test where performed to ensure the program worked consistently.
 6X6 ds4 G5,4 g1,2 p2,4 M4,3 p1,2 a1,1
 6X6 de5 G5,5 z3,1 p4,5 M1,1 w2,1 a1,2
 
-
-            *******************
-             Known Limitations
-            *******************
- 
- Pressing any other button other then w/a/s/d or q will cause a glitch moving the cursor to an unwanted position, which is why you cannot press p to use a potion. This bug appeared after i
- implemented my movement code. If there are more then one monster ina room they will both die if the other dies in combat. 
  
             ***********
             References
